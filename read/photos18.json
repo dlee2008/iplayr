@@ -41,6 +41,6 @@
 "image_replace_target": "",
 "image_replace_with": "",
 "post_images_node": "//[@id='content']",
-"post_images": "//img/@src"
+"post_images": "//a/@href"
 }
 }
